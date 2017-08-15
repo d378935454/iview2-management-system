@@ -4,7 +4,7 @@ import router from './router'
 import VueMarkdown from 'vue-markdown'
 import iView from 'iview'
 import 'iview/dist/styles/iview.css'
-import VueQuillEditor from 'vue-quill-editor'
+// import VueQuillEditor from 'vue-quill-editor'
 import IEcharts from 'vue-echarts-v3';
 
 Vue.use(iView)
